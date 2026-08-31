@@ -1,0 +1,416 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jugo litro",
+    "categoria": "Bebida",
+    "precio": "4800.00"
+  },
+  {
+    "id": 2,
+    "nombre": "Pony Malta",
+    "categoria": "Bebida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 3,
+    "nombre": "Vive 100",
+    "categoria": "Bebida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 4,
+    "nombre": "Gatorade",
+    "categoria": "Bebida",
+    "precio": "4400.00"
+  },
+  {
+    "id": 5,
+    "nombre": "Naty Malta",
+    "categoria": "Bebida",
+    "precio": "2800.00"
+  },
+  {
+    "id": 6,
+    "nombre": "Agua botella peq.",
+    "categoria": "Bebida",
+    "precio": "1200.00"
+  },
+  {
+    "id": 7,
+    "nombre": "Bretana",
+    "categoria": "Bebida",
+    "precio": "4000.00"
+  },
+  {
+    "id": 8,
+    "nombre": "Agua bot. 60c",
+    "categoria": "Bebida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 9,
+    "nombre": "Agua litro",
+    "categoria": "Bebida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 10,
+    "nombre": "Agua saborizada",
+    "categoria": "Bebida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 11,
+    "nombre": "Cola y Pola",
+    "categoria": "Bebida",
+    "precio": "3200.00"
+  },
+  {
+    "id": 12,
+    "nombre": "Jugo Caja",
+    "categoria": "Bebida",
+    "precio": "2300.00"
+  },
+  {
+    "id": 13,
+    "nombre": "Gaseosa grande",
+    "categoria": "Bebida",
+    "precio": "3300.00"
+  },
+  {
+    "id": 14,
+    "nombre": "Gaseosa peq.",
+    "categoria": "Bebida",
+    "precio": "2300.00"
+  },
+  {
+    "id": 15,
+    "nombre": "Speed",
+    "categoria": "Bebida",
+    "precio": "2500.00"
+  },
+  {
+    "id": 16,
+    "nombre": "Cerveza lata",
+    "categoria": "Bebida",
+    "precio": "3700.00"
+  },
+  {
+    "id": 17,
+    "nombre": "Coronita",
+    "categoria": "Bebida",
+    "precio": "4000.00"
+  },
+  {
+    "id": 18,
+    "nombre": "Cerveza botella",
+    "categoria": "Bebida",
+    "precio": "3300.00"
+  },
+  {
+    "id": 19,
+    "nombre": "Trocipollo",
+    "categoria": "Comida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 20,
+    "nombre": "Tostaco",
+    "categoria": "Comida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 21,
+    "nombre": "Cheetos",
+    "categoria": "Comida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 22,
+    "nombre": "Tocineta",
+    "categoria": "Comida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 23,
+    "nombre": "Yups",
+    "categoria": "Comida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 24,
+    "nombre": "Chicharrón",
+    "categoria": "Comida",
+    "precio": "3200.00"
+  },
+  {
+    "id": 25,
+    "nombre": "Papas",
+    "categoria": "Comida",
+    "precio": "2500.00"
+  },
+  {
+    "id": 26,
+    "nombre": "Gall. Club Social",
+    "categoria": "Comida",
+    "precio": "1100.00"
+  },
+  {
+    "id": 27,
+    "nombre": "Gall. Miel",
+    "categoria": "Comida",
+    "precio": "1300.00"
+  },
+  {
+    "id": 28,
+    "nombre": "Cocosette",
+    "categoria": "Comida",
+    "precio": "3000.00"
+  },
+  {
+    "id": 29,
+    "nombre": "Gall. Oreo",
+    "categoria": "Comida",
+    "precio": "1600.00"
+  },
+  {
+    "id": 30,
+    "nombre": "Gall. Richs",
+    "categoria": "Comida",
+    "precio": "1600.00"
+  },
+  {
+    "id": 31,
+    "nombre": "Ponqué Gala",
+    "categoria": "Comida",
+    "precio": "2600.00"
+  },
+  {
+    "id": 32,
+    "nombre": "Barra chocol.",
+    "categoria": "Comida",
+    "precio": "2600.00"
+  },
+  {
+    "id": 33,
+    "nombre": "Bocadillo",
+    "categoria": "Comida",
+    "precio": "900.00"
+  },
+  {
+    "id": 34,
+    "nombre": "Bombón",
+    "categoria": "Comida",
+    "precio": "1000.00"
+  },
+  {
+    "id": 35,
+    "nombre": "Almendra",
+    "categoria": "Comida",
+    "precio": "3800.00"
+  },
+  {
+    "id": 36,
+    "nombre": "Trident x3",
+    "categoria": "Comida",
+    "precio": "1100.00"
+  },
+  {
+    "id": 37,
+    "nombre": "Trident x5",
+    "categoria": "Comida",
+    "precio": "1600.00"
+  },
+  {
+    "id": 38,
+    "nombre": "Trident x1",
+    "categoria": "Comida",
+    "precio": "300.00"
+  },
+  {
+    "id": 39,
+    "nombre": "Empanada",
+    "categoria": "Comida",
+    "precio": "3000.00"
+  },
+  {
+    "id": 40,
+    "nombre": "Arepa",
+    "categoria": "Comida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 41,
+    "nombre": "Cigarro",
+    "categoria": "Comida",
+    "precio": "1000.00"
+  },
+  {
+    "id": 42,
+    "nombre": "Maní",
+    "categoria": "Comida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 43,
+    "nombre": "Waffer Jet",
+    "categoria": "Comida",
+    "precio": "3000.00"
+  },
+  {
+    "id": 44,
+    "nombre": "Tinto",
+    "categoria": "Bebida",
+    "precio": "1600.00"
+  },
+  {
+    "id": 45,
+    "nombre": "Tinto Grande",
+    "categoria": "Bebida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 46,
+    "nombre": "Aromática",
+    "categoria": "Bebida",
+    "precio": "1600.00"
+  },
+  {
+    "id": 47,
+    "nombre": "Aromática Grande",
+    "categoria": "Bebida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 48,
+    "nombre": "Perico",
+    "categoria": "Bebida",
+    "precio": "2200.00"
+  },
+  {
+    "id": 49,
+    "nombre": "Café",
+    "categoria": "Bebida",
+    "precio": "2900.00"
+  },
+  {
+    "id": 50,
+    "nombre": "Milo",
+    "categoria": "Bebida",
+    "precio": "3100.00"
+  },
+  {
+    "id": 51,
+    "nombre": "Rollo papel H.",
+    "categoria": "Comida",
+    "precio": "2500.00"
+  },
+  {
+    "id": 52,
+    "nombre": "Limonada",
+    "categoria": "Bebida",
+    "precio": "2600.00"
+  },
+  {
+    "id": 53,
+    "nombre": "Menú del día",
+    "categoria": "Restaurante",
+    "precio": "16000.00"
+  },
+  {
+    "id": 54,
+    "nombre": "Menú ejecutivo",
+    "categoria": "Restaurante",
+    "precio": "18000.00"
+  },
+  {
+    "id": 55,
+    "nombre": "Limonada",
+    "categoria": "Restaurante",
+    "precio": "3000.00"
+  },
+  {
+    "id": 56,
+    "nombre": "Cerveza",
+    "categoria": "Restaurante",
+    "precio": "4000.00"
+  },
+  {
+    "id": 57,
+    "nombre": "Adicional de huevo (1)",
+    "categoria": "Restaurante",
+    "precio": "1500.00"
+  },
+  {
+    "id": 58,
+    "nombre": "Adicional de huevo (2)",
+    "categoria": "Restaurante",
+    "precio": "2900.00"
+  },
+  {
+    "id": 59,
+    "nombre": "Sopa adicional",
+    "categoria": "Restaurante",
+    "precio": "8500.00"
+  },
+  {
+    "id": 60,
+    "nombre": "Sopa con porción de arroz",
+    "categoria": "Restaurante",
+    "precio": "10000.00"
+  },
+  {
+    "id": 61,
+    "nombre": "Menú especial",
+    "categoria": "Restaurante",
+    "precio": "22000.00"
+  },
+  {
+    "id": 62,
+    "nombre": "Tinto Golden",
+    "categoria": "Restaurante",
+    "precio": "1500.00"
+  },
+  {
+    "id": 63,
+    "nombre": "Desechables",
+    "categoria": "Restaurante",
+    "precio": "1000.00"
+  },
+  {
+    "id": 64,
+    "nombre": "Medio runtazo",
+    "categoria": "Restaurante",
+    "precio": "16000.00"
+  },
+  {
+    "id": 65,
+    "nombre": "Bandeja junior ejecutivo",
+    "categoria": "Restaurante",
+    "precio": "16000.00"
+  },
+  {
+    "id": 66,
+    "nombre": "Bandeja junior casa",
+    "categoria": "Restaurante",
+    "precio": "14000.00"
+  },
+  {
+    "id": 67,
+    "nombre": "Jarra chicha",
+    "categoria": "Restaurante",
+    "precio": "3500.00"
+  },
+  {
+    "id": 68,
+    "nombre": "Vaso de chicha",
+    "categoria": "Restaurante",
+    "precio": "2500.00"
+  },
+  {
+    "id": 69,
+    "nombre": "Botella chicha 1,5 L",
+    "categoria": "Restaurante",
+    "precio": "10000.00"
+  }
+]
